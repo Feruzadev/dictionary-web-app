@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Victor_Mono";
+    src: url(../FONTS/Victor_Mono/static/VictorMono-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Victor_Mono";
+    src: url(../FONTS/Victor_Mono/static/VictorMono-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "PT_Serif";
+    src: url(../FONTS/PT_Serif/PTSerif-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "PT_Serif";
+    src: url(../FONTS/PT_Serif/PTSerif-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "DM_Serif_Text";
+    src: url(../FONTS/DM_Serif_Text/DMSerifText-Regular.ttf);
+    font-weight: 400;
+}
